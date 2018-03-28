@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1521725625 source:c:\users\student\desktop\tema poo\main.cpp
+	<iostream>
+	"nod.h"
+	"Lista.h"
+	<cstdlib>
+	"graf.h"
+	<algorithm>
+	<fstream>
+
+1522044279 c:\users\student\desktop\tema poo\include\nod.h
+
+1521721788 c:\users\student\desktop\tema poo\include\lista.h
+	<iostream>
+	"nod.h"
+
+1521724573 c:\users\student\desktop\tema poo\include\graf.h
+	"Lista.h"
+	<iostream>
+	"nod.h"
+
+1521725274 source:c:\users\student\desktop\tema poo\src\graf.cpp
+	"graf.h"
+	"Lista.h"
+	"nod.h"
+	<iostream>
+
+1521721770 source:c:\users\student\desktop\tema poo\src\nod.cpp
+	"nod.h"
+	<iostream>
+
+1521725557 source:c:\users\student\desktop\tema poo\src\lista.cpp
+	"Lista.h"
+	"nod.h"
+	<iostream>
+
